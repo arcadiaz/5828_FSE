@@ -1,7 +1,9 @@
 1. Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
+
 *Essential difficulties* refer to the difficulties ‘’inherent in the nature of software’’. These difficulties are essential because every software entity will have to solve the same problems such as data sets, algorithms and functions. An example of essential difficulties in software is a ‘’bug’’ in code.
 
 2. Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
+
 *Accidental difficulties* refer to the difficulties encountered during software production which are not related to the nature of software entities. According to Brooks, most of the recent software technology developments, such as high-level language and unified programming environments tackles these accidental difficulties. An example of accidental difficulty is a tool that one software relies on is not compatible with the software after an update.
 
 3. List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.
@@ -15,7 +17,9 @@
 * Invisibility: Softwares are intangible and unvisualizable. It is very difficult to reduce a software entity to simple diagrams. 
 
 4. Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
+
 A silver bullet refers to a single development in software engineering technology that can lead to a ‘’order-of-magnitude improvement in productivity’’.
+
 Brooks said that current breakthroughs in software engineering only tackles the accidental difficulties. In the lecture, it is mentioned that in order to improve software development by a factor of 10, accidental difficulties needs to account for at least 90% of all problems. However, this is not the case in software engineering. Also, in the lecture, it is also mentioned that it is impossible to eliminate all accidental difficulties because solving one problem may lead to another problem in software production. 
 
 
@@ -25,6 +29,7 @@ chemistry often do experiments on a very small scale. A technique discovered in 
 Computer scientists are like chemist. They will develop new algorithms and new theories that can be utilized by software engineers to make better software.
 
 6. In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
+
 Abstraction is the primary tool used by software engineers to solve problems. It means to break down a problem into understandable sub-problems. 
 
 Conversations refer to the conversations happen among the people who are involved in software production, which can include customers, programmers and designers. This is very important because this is a way to get information on the product we want.
