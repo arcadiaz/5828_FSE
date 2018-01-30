@@ -1,22 +1,22 @@
 1. Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
 
-  **Essential difficulties** refer to the difficulties ‘’inherent in the nature of software’’. These difficulties are essential because every software entity will have to solve the same problems such as data sets, algorithms and functions. An example of essential difficulties in software is a ‘’bug’’ in code.
+  **Essential difficulties** refer to the difficulties *inherent in the nature of software*. These difficulties are essential because every software entity will have to solve the same problems such as data sets, algorithms and functions. ``bugs`` in software programs are one example of essential difficulties.
 
 ---
 
 2. Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
 
-  **Accidental difficulties** refer to the difficulties encountered during software production which are not related to the nature of software entities. According to Brooks, most of the recent software technology developments, such as high-level language and unified programming environments tackles these accidental difficulties. An example of accidental difficulty is a tool that one software relies on is not compatible with the software after an update.
+  **Accidental difficulties** refer to the difficulties encountered during software production. According to Brooks, most of the recent software technology developments, such as high-level language and unified programming environments target these accidental difficulties. An example of accidental difficulty: a tool that one software relies on becomes imcompatible with the software after an update.
 
 ---
 
 3. List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.
 
-* **Complexity**: Software entities are very complex in nature because ‘’no two parts are alike’’. They have many states and elements, and as the software grows, the number of parts and states will grow exponentially with it. 
+* **Complexity**: Software entities are very complex in nature because ``no two parts are alike``. They have many states and elements, and as the software grows, the number of parts and states will grow exponentially with it. One example of complexity is that a simple program can have millions of states base on the input it receives.
 
 * **Conformity**: Software must conform with arbitrary rules that used by other institutions or systems. For example, a software for calculating taxes must conform with tax laws in different states and countries.
 
-* **Changeability**: Softwares are constantly pressured to change. This is because changing a software is relatively easy, and software’s long lifecycle requires it to change to work with the new hardware/software.
+* **Changeability**: Softwares are constantly pressured to change. This is because changing a software is relatively easy, and software’s long lifecycle requires it to change to work with the new hardware/software. For example, when VR headsets release in the market, related software need to be changed to work with them.
 
 * **Invisibility**: Softwares are intangible and unvisualizable. It is very difficult to reduce a software entity to simple diagrams. 
 
@@ -53,4 +53,4 @@
 
 No Silver Bullet: Essence and Accidents of Software Engineering - Frederick P. Brooks, Jr.
 
-Lecture Note #2 - Prof. Ken Anderson
+Lecture Note #1 and #2 - Prof. Ken Anderson
