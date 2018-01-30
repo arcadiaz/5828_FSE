@@ -47,3 +47,10 @@
 * **Translation** is another core principle in software development. It means to translate software development into something workable for all personnel involved. 
 
 * **Iteration** means that software development are usually done step by step and in multiple iterations. It is important because iterating on a software enables engineers to make improvements on the product.
+
+---
+# References
+
+No Silver Bullet: Essence and Accidents of Software Engineering - Frederick P. Brooks, Jr.
+
+Lecture Note #2 - Prof. Ken Anderson
