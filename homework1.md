@@ -1,6 +1,6 @@
 1. Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
 
-  **Essential difficulties** refer to the difficulties *inherent in the nature of software*. These difficulties are essential because every software systems will have to solve the same problems such as data sets, algorithms and functions. "bugs" in software programs are one example of essential difficulties.
+  **Essential difficulties** refer to the difficulties *inherent in the nature of software*. These difficulties are essential because every software systems will have to solve the same problems such as data sets, algorithms and functions. "Bugs" in software programs are one example of essential difficulties. For example, a bug in a calculator allows the divisor to be zero. 
 
 ---
 
