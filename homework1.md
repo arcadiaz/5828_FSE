@@ -6,7 +6,7 @@
 
 2. Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
 
-  **Accidental difficulties** refer to the difficulties encountered during software production. According to Brooks, most of the recent software technology developments, such as high-level language and unified programming environments target these accidental difficulties. An example of accidental difficulty: a tool that one software relies on becomes imcompatible with the software after an update.
+  **Accidental difficulties** refer to the difficulties encountered during software production, for example, it can be difficulties that relate to a tool used in a software. According to Brooks, most of the recent software technology developments, such as high-level language and unified programming environments target these accidental difficulties. An example of accidental difficulty: a tool that one software relies on becomes imcompatible with the software after an update.
 
 ---
 
@@ -18,7 +18,7 @@
 
 * **Changeability**: Softwares are constantly pressured to change. This is because changing a software is relatively easy, and software’s long lifecycle requires it to change to work with the new hardware/software. For example, when VR headsets release in the market, related software need to be changed to work with them.
 
-* **Invisibility**: Softwares are intangible and unvisualizable. It is very difficult to reduce a software entity to simple diagrams. 
+* **Invisibility**: Softwares are intangible and unvisualizable. It is very difficult to reduce a software entity to simple diagrams. For example, UML has many different types of diagrams but it is still hard to diagram software systems. 
 
 ---
 
@@ -42,11 +42,11 @@
 
 * **Conversations** refer to the conversations happen among the people who are involved in software production, which can include customers, programmers and designers. This is very important because information is exchanged via conversations.
 
-* **Specifications** is one of the core principle in software engineering. Everything in software engineering needs to be specified: requirements, designs and etc. 
+* **Specifications** is one of the core principle in software engineering, and software development is very dependent on its specifications. Everything in software engineering needs to be specified: requirements, designs and etc. 
 
-* **Translation** is another core principle in software development. It means to translate software development into something workable for all personnel involved. 
+* **Translation** is another core principle in software development. It means to translate software development work into something understandable and workable. 
 
-* **Iteration** means that software development are usually done step by step and in multiple iterations. It is important because iterating on a software enables engineers to make improvements on the product.
+* **Iteration** means that software development are usually done in multiple iterations. It is important because iteration help people discover problems and make improvements on the software.
 
 ---
 # References
