@@ -1,7 +1,11 @@
 # Homework 1
+Xiaozhe(Arcadia) Zhang
+
+---
+
 1. Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
 
-  **Essential difficulties** refer to the difficulties *inherent in the nature of software*. These difficulties are essential because every software systems will have to solve the same problems such as data sets, algorithms and functions. "Bugs" in software programs are one example of essential difficulties. For example, a bug in a calculator allows the divisor to be zero. 
+  **Essential difficulties** refer to the difficulties *inherent in the nature of software*. These difficulties are essential because every software system will have to solve the same problems such as data sets, algorithms and functions. For example, a bug in a calculator allows the divisor to be zero. This bug is an essential difficulty.
 
 ---
 
@@ -13,11 +17,11 @@
 
 3. List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.
 
-* **Complexity**: Software entities are very complex in nature because "no two parts are alike". They have many states and elements, and as the software grows, the number of parts and states will grow with it. One example of complexity is that a simple program can have millions of states base on the input it receives.
+* **Complexity**: Software entities are very complex in nature because "no two parts are alike". They have many parts and states, and as the software grows, the number of parts and states will grow with it. One example of complexity is that a simple program can have millions of states base on the input it receives.
 
 * **Conformity**: Software must conform with arbitrary rules that used by other institutions or systems. For example, a software for calculating taxes must conform with tax laws in different states and countries.
 
-* **Changeability**: Softwares are constantly pressured to change. This is because changing a software is relatively easy, and software’s long lifecycle requires it to change to work with the new technologies. For example, when VR headsets release in the market, software can to be changed to work with them.
+* **Changeability**: Softwares are constantly pressured to change. This is because changing a software is relatively easy, and software’s long lifecycle requires it to change to work with the new technologies. For example, when new VR headsets release in the market, games can to be changed to work with them.
 
 * **Invisibility**: Softwares are intangible and unvisualizable. It is very difficult to use simple diagrams to represent software systems. For example, UML has many different types of diagrams but it is still hard to diagram software systems. 
 
@@ -25,7 +29,7 @@
 
 4. Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
 
-  A **silver bullet** refers to a single development in software engineering technology that can lead to a "order-of-magnitude improvement in productivity".
+  A **silver bullet** refers to "a single development in software engineering technology that can lead to a order-of-magnitude improvement in productivity".
 
   Brooks said that current breakthroughs in software engineering only tackles the accidental difficulties. In the lecture, it is mentioned that in order to improve software development by a factor of 10, accidental difficulties needs to account for at least 90% of all problems. However, this is not the case in software engineering. In the lecture, it is also mentioned that it is impossible to eliminate all accidental difficulties because solving one problem may lead to another problem in software production. As a result, there will be no silver bullet for software engineering.
 
