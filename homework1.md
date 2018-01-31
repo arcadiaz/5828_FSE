@@ -32,7 +32,7 @@
 
 5. In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
-  Chemists often do experiments on a very small scale. A technique discovered in small experiments can be scaled up and used by chemical engineer in other scenarios and can be used to help with planning and budgeting. Computer scientists are like chemist; they will develop new algorithms and new theories that can be utilized by software engineers to make better software.
+  Chemists often do experiments on a small scale to discover new techniques. These techniques can be scaled up and used by chemical engineers in other real life scenarios. Chemical engineers also rely on these techniques to plan and budget. Computer scientists are like chemist; they will develop new algorithms and new theories that can be utilized by software engineers to make better software.
 
 ---
 
